@@ -136,5 +136,6 @@ int main ()
 	cout<<"|RATA-RATA Keseluruhun Nilai Yang Di Input            : "<<endl;
 	cout<<"|JUMLAH    Keseluruhan Nilai Yang Di Input            : "<<endl;
 	cout<<"*--------------------------------------------------------------*"<<endl;
+	cout<<"by github.com/znladnsyh"<<endl;
  	return 0;
 }
